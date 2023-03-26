@@ -1,1 +1,2 @@
 # chatgpt_web_chrome_extention
+这个是chatgpt的在chrome上的插件
